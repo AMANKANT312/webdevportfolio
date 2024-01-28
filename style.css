@@ -436,12 +436,13 @@ header {
 .swiper-pagination-bullet {
   background-color: var(--color-gray-600);
 }
+/* forrrr form i have created contact pageeee card  */
 
 /* ==================fooooteeerrrr================ */
 footer {
   background-color: var(--color-gray-400);
   transition: var(--trnsition);
-  padding-top: 7rem;
+  padding-top: 4rem;
 }
 .footer__menu {
   display: flex;
@@ -451,6 +452,7 @@ footer {
 .footer__menu a {
   color: var(--color-primary);
   transition: var(--trnsition);
+  font-weight: 500;
 }
 .footer__menu a :hover {
   color: #fff;
@@ -459,12 +461,13 @@ footer {
   width: fit-content;
   display: flex;
   gap: 1.5rem;
-  margin: 3rem auto 4rem;
+  margin: 1rem auto 2rem;
 }
 .footer__socials a {
   background-color: #fff;
   color: rgb(16, 1, 31);
-  padding: 0.6rem;
+  padding: 0.3rem 0.8rem;
+  font-size: 1.2rem;
   border-radius: 50%;
   display: flex;
   transition: var(--trnsition);
